@@ -1,0 +1,95 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+h1,
+h3,
+h5 {
+  font-family: "Festive", cursive;
+}
+h2,
+p,
+button {
+  font-family: "Dancing Script", cursive;
+}
+.nav-control {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.heading {
+  width: 50%;
+  position: relative;
+  top: -50%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  text-align: center;
+}
+
+.heading button {
+  margin: 5px;
+}
+
+.heading h1 {
+  font-size: 80px;
+}
+.heading p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.wonderful {
+  background: -webkit-linear-gradient(#36d1dc, #5b86e5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.picture {
+  position: relative;
+  top: -50%;
+  left: 50%;
+  transform: translate(-50%, 10%);
+  text-align: center;
+}
+.picture img {
+  width: 700px;
+}
+
+.picture button {
+  margin-top: -20px;
+  padding: 10px 20px;
+  border-radius: 50px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.picture button img {
+  width: 30px;
+  padding: 5px;
+  margin-right: 5px;
+  margin-top: -5px;
+}
+
+.secondSection .details {
+  width: 50%;
+  position: relative;
+  top: -50%;
+  left: 50%;
+  transform: translate(-50%, 120%);
+  text-align: center;
+}
+
+.secondSection .detailsTwo {
+  margin-top: 200px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.secondSection .detailsTwo img {
+  width: 500px;
+}
+.secondSection .detailsTwo .left {
+  margin-left: 130px;
+}
+.akash {
+  margin-bottom: 10px;
+}
